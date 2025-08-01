@@ -41,8 +41,8 @@ The model was trained for just 5 epochs and showed rapid, effective learning, de
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/[Your-Username]/01_ANN_Backpropagation.git
-    cd 01_ANN_Backpropagation
+    git clone https://github.com/Ayush03A/Artificial-Neural-Network-with-Backpropagation-from-Scratch.git
+    cd Artificial-Neural-Network-with-Backpropagation-from-Scratch
     ```
 
 2.  **Install Dependencies**
