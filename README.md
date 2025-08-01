@@ -30,7 +30,7 @@ The primary goal is to implement an ANN that can effectively **classify the Iris
 
 The model was trained for just 5 epochs and showed rapid, effective learning, demonstrating the power of backpropagation.
 
-![Training Progress]([./images/output_plots.png](https://github.com/Ayush03A/Artificial-Neural-Network-with-Backpropagation-from-Scratch/blob/88348a00e1b52d3e25b82426aade40185e83db27/Output.png))
+![Training Progress](https://github.com/Ayush03A/Artificial-Neural-Network-with-Backpropagation-from-Scratch/blob/88348a00e1b52d3e25b82426aade40185e83db27/Output.png)
 
 -   **Training Accuracy (Left)**: The model's accuracy quickly climbs to nearly 80%, showing it is learning the underlying patterns in the data effectively.
 -   **Training Time (Right)**: Each epoch is computationally inexpensive, taking only milliseconds to complete.
